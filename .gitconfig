@@ -1,3 +1,10 @@
 [user]
 	name = Jay-Karia
-	email = Jay-Karia
+	email = jay.sanjay.karia@gmail.com
+	signinkey = 2DF36D7C7E925075
+[credential]
+	helper = cache
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
