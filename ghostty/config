@@ -8,7 +8,6 @@
 font-size = 11
 font-family = JetBrainsMono Nerd Font
 
-theme = GruvboxDarkHard
 mouse-hide-while-typing = true
 mouse-scroll-multiplier = 2
 
@@ -17,3 +16,16 @@ window-save-state = always
 macos-titlebar-style=transparent
 window-colorspace = "display-p3"
 
+# Top Themes
+theme = Aura
+#theme = Ayu Mirage
+#theme = catppuccin-mocha
+#theme = duckbones
+#theme = Harper
+#theme = MaterialOcean
+#theme = MonaLisa
+#theme = Monokai Pro Octagon
+#theme = Nocuturnal Winter
+#theme = rebecca
+#theme = solarized-osaka-night
+#theme = tokyonight
