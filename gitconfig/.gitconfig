@@ -1,7 +1,6 @@
 [user]
 	name = Jay-Karia
 	email = jay.sanjay.karia@gmail.com
-	signinkey = 2DF36D7C7E925075
 	signingkey = 2DF36D7C7E925075
 [credential]
 	helper = cache
