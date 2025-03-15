@@ -25,3 +25,4 @@ fi
 unset rc
 
 export GPG_TTY=$(tty)
+. "$HOME/.cargo/env"

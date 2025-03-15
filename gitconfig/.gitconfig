@@ -14,4 +14,5 @@
 	st = status -s
 	a = add .
 	cm = commit -m
-	p = push
+	ph = push
+	pl = pull
