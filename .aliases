@@ -11,6 +11,7 @@ alias LS="ls -a --sort=time --width=1 --color=auto"
 alias ll="ls -l --sort=time --color=auto"
 
 alias dotfiles="cd ~/.dotfiles"
+alias projects="cd ~/Projects"
 
 alias cl="clear"
 alias src="source ~/.zshrc"
