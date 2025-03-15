@@ -8,3 +8,9 @@
 	gpgsign = true
 [tag]
 	gpgSign = true
+[alias]
+	co = checkout
+	ci = commit
+	st = status -s
+	a = add .
+	cm = commit -m
