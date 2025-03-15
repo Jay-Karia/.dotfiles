@@ -1,12 +1,16 @@
-# Shortcuts
+
 alias code="code-insiders ."
 
-# Navigation
-alias ..="cd .." # Go up one directory
-alias ...="cd ../.." # Go up two directories
-alias ....="cd ../../.." # Go up three directories
-alias .....="cd ../../../.." # Go up four directories
+alias ..="cd .."
 alias ~="cd ~"
 
 alias dl="cd ~/Downloads"
 alias dk="cd ~/Desktop"
+
+alias LS="ls -a --sort=time --width=1 --color=auto"
+alias ll="ls -l --sort=time --color=auto"
+
+alias cl="clear"
+alias src="source ~/.zshrc"
+
+alias update="sudo apt update && sudo apt upgrade"
