@@ -19,3 +19,11 @@ alias src="source ~/.zshrc"
 alias update="sudo apt update && sudo apt upgrade"
 
 alias gt="git"
+
+alias dev="pnpm dev"
+alias build="pnpm build"
+alias buildw="pnpm build:watch"
+alias start="pnpm start"
+alias test="pnpm test"
+alias format="pnpm format"
+alias lint="pnpm lint:src"
