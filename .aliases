@@ -20,6 +20,7 @@ alias update="sudo apt update && sudo apt upgrade"
 
 alias gt="git"
 alias nv="nvim"
+alias lc="colorls -A --sd"
 
 alias dev="pnpm dev"
 alias build="pnpm build"
