@@ -77,3 +77,10 @@ esac
 
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
 export PATH="$PATH:$GEM_HOME/bin"
+alias lg='lazygit'
+
+# WebStorm
+export PATH="/home/jay/Web Storm/WebStorm-243.26053.12/bin:$PATH"
+
+# CLion
+export PATH="/home/jay/CLion/clion-2024.3.5/bin:$PATH"
