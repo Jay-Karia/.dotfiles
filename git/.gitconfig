@@ -1,3 +1,5 @@
+[core]
+	editor = \"C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin\\code-insiders\" --wait
 [user]
 	name = Jay-Karia
 	email = jay.sanjay.karia@gmail.com
