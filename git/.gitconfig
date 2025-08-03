@@ -3,7 +3,7 @@
 [user]
 	name = Jay-Karia
 	email = jay.sanjay.karia@gmail.com
-	signingkey = 2DF36D7C7E925075
+	signingkey = C7BC110B5CDDA818
 [credential]
 	helper = cache
 [commit]
